@@ -5,11 +5,11 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2021-11-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-11-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,10 +21,10 @@ publication_types: ['2']
 publication: 'Science Education'
 publication_short: 'SSCI'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study investigated eight experienced science teachers’ and eight senior high school students’ metavisualization when they drew models to represent their concepts of carbon cycling. Qualitative data collection techniques including think-aloud tasks and follow-up retrospective interviews were employed. The purposes of the study included: (1) to propose a framework differentiating performance levels leading to metavisual competence; and (2) to identify students’ metavisualization difficulties by comparing experienced teachers’ and novice students’ performances. Four aspects of metavisualization were investigated, including use of epistemic knowledge of visualization, demonstration of metacognition in visualization, use of judgment criteria, and use of metavisual strategies. Levels of progression from none or less to sufficient metavisual competence were proposed based on the participants’ metavisualization performances. Three types of epistemic knowledge of visualization were identified, namely, a view of visualization as a learning or expression tool, a static view of representation and target, and a dynamic view between purposeful visualization and knowledge construction. Five types of metavisual strategies were also identified, namely, resourcing, focusing, inducting, deducing, and perfecting strategies. Comparison of the teachers’ and students’ metavisualization indicates that the experienced teachers demonstrated distinctive metacognition and metavisual strategies that helped them achieve the goal of fluent visualization. The findings provide insights into how to support individuals’ development of metavisual competence for scientific modeling.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Source Themes
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1002/sce.21693
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/sce.21693
 url_code: ''
 url_dataset: ''
 url_poster: ''
