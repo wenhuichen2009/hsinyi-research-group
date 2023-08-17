@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Profrssor Hsinyi Chang's
         Research Group
       image:
         filename: welcome.jpg
