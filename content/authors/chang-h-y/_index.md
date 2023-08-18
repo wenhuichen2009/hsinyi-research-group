@@ -8,7 +8,7 @@ last_name: Chang
 
 # Username (this should match the folder name)
 authors:
-  - Chang, H.-Y.
+  - chang-h-y.
 
 # Is this the primary user of the site?
 superuser: false
