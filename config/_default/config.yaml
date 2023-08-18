@@ -14,7 +14,7 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-preserveTaxonomyNames: true
+preserveTaxonomyNames: false
 
 ############################
 ## MODULES
