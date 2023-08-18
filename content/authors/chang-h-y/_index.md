@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chang, H.-Y. 張欣怡
+title: Chang, H.-Y.
 
 # Full name (for SEO)
 first_name: Hsiny-Yi

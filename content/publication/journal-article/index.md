@@ -3,8 +3,7 @@ title: 'Science teachers’ and students’ metavisualization in scientific mode
 authors:
   - 'chang-h-y'
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
 date: '2022-07-01T00:00:00Z'
 doi: ''
 
