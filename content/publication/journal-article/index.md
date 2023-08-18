@@ -1,7 +1,7 @@
 ---
 title: 'Science teachers’ and students’ metavisualization in scientific modeling.  106, 448-475'
 authors:
-  - "**Chang**"
+  - 'chang-h-y'
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
