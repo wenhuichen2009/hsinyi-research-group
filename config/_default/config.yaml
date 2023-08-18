@@ -13,7 +13,7 @@ baseURL: 'https://example.com/' # Website URL
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-## removePathAccents: true
+removePathAccents: false
 
 
 ############################
@@ -43,7 +43,6 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 
-preserveTaxonomyNames: true
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
