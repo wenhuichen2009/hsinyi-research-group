@@ -2,15 +2,15 @@
 title: 'Science teachers’ and students’ metavisualization in scientific modeling.  106, 448-475'
 authors:
   - Chang
-  - H.-Y.
+  - "H.-Y."
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2013-07-01T00:00:00Z'
+date: '2022-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-07-01T00:00:00Z'
+publishDate: '2013-07-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
