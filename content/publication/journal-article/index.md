@@ -1,7 +1,6 @@
 ---
-title: 'Science teachers’ and students’ metavisualization in scientific modeling. 106, 448-475'
+title: 'Science teachers’ and students’ metavisualization in scientific modeling. Chang, H.-Y. 106, 448-475'
 authors:
-  - 'Chang, H.-Y.' 
   - Chang Hsinyi
 author_notes:
   - 'Equal contribution'
