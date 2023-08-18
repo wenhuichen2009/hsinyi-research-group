@@ -2,6 +2,7 @@
 title: 'Science teachers’ and students’ metavisualization in scientific modeling.  106, 448-475'
 authors:
   - 'chang-h-y'
+  - 'wu-h-k'
 author_notes:
   - 
 date: '2022-07-01T00:00:00Z'
